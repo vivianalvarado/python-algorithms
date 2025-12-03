@@ -33,3 +33,5 @@ cd python-algorithms
 
 # Ejecutar el script
 python convertidor.py
+```
+Proyecto desarrollado como parte del portafolio académico de Ingeniería de Software.
